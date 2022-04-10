@@ -1,0 +1,23 @@
+{
+  "name": "amberglengenerator",
+  "version": "0.0.0",
+  "description": "amberglenerator",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "author": "bdowrick",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@mui/material": "^5.6.0",
+    "next": "^12.1.4",
+    "next-js": "^0.9.0-alpha",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
